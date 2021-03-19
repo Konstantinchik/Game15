@@ -1,0 +1,14 @@
+d:\CSharp Projects\Game16\Game16\bin\Debug\Game16.exe.config
+d:\CSharp Projects\Game16\Game16\bin\Debug\Game16.exe
+d:\CSharp Projects\Game16\Game16\bin\Debug\Game16.pdb
+d:\CSharp Projects\Game16\Game16\obj\Debug\Game16.FormGame15.resources
+d:\CSharp Projects\Game16\Game16\obj\Debug\Game16.Properties.Resources.resources
+d:\CSharp Projects\Game16\Game16\obj\Debug\Game16.csproj.GenerateResource.cache
+d:\CSharp Projects\Game16\Game16\obj\Debug\Game16.csproj.CoreCompileInputs.cache
+d:\CSharp Projects\Game16\Game16\obj\Debug\Game16.exe
+d:\CSharp Projects\Game16\Game16\obj\Debug\Game16.pdb
+d:\CSharp Projects\Game16\Game16\bin\Debug\Game16.exe.manifest
+d:\CSharp Projects\Game16\Game16\bin\Debug\Game16.application
+d:\CSharp Projects\Game16\Game16\obj\Debug\Game16.csprojAssemblyReference.cache
+d:\CSharp Projects\Game16\Game16\obj\Debug\Game16.exe.manifest
+d:\CSharp Projects\Game16\Game16\obj\Debug\Game16.application
